@@ -14,6 +14,6 @@ https://www.youtube.com/playlist?list=PLrUsVxhKCGEshQcjzMxDwWFORmM7c8YDE
 https://www.youtube.com/playlist?list=PLrUsVxhKCGEuAzTpqZYFIM7meoUGpfpIG
 
 ```diff
-#### An updated version of this repository is available at https://github.com/saivojjala/Distributed-Systems-Mini-Project. 
+- An updated version of this repository is available at https://github.com/saivojjala/Distributed-Systems-Mini-Project. 
 ```
 * The updates include a holonomic drive system and PID controller to accurately calculate velocity at a given instant in both the presence and abscence of obstacles. Incorporation of PID controller allows for a more robust and optimized traversal. 
