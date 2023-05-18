@@ -1,4 +1,4 @@
-# Autonomous Traversal of a 4 wheel bot
+# Autonomous UGV
 This repository contains the URDF for a 4 wheel Skid Steer Bot, and the codes for the autonomous traversal of the bot between GPS Coordinates while avoiding obstacles in its path. The code have been developed in Python using the Robot Operating System (ROS1 melodic).
 
 ## Sensors Used:
